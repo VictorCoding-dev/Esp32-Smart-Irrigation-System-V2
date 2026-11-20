@@ -1,4 +1,6 @@
 
+https://github.com/user-attachments/assets/7dc7b19e-11b3-4910-91a3-132d2c8cd7da
+
 # 🌱 ESP32 Smart Irrigation System — Irrigação Automática com Blynk IoT
 
 Sistema de irrigação inteligente baseado em **ESP32** e **Blynk IoT** que monitora a temperatura e a umidade do ar, acompanha o nível do reservatório de água, permite o acionamento remoto da bomba d'água e controla o direcionamento do fluxo por meio de um **servomotor SG90** com ângulo ajustável pelo aplicativo.
@@ -7,17 +9,21 @@ Sistema de irrigação inteligente baseado em **ESP32** e **Blynk IoT** que moni
 
 ### 🎥 Demonstração em Funcionamento
 
-https://github.com/user-attachments/assets/b1fc6c77-db47-46b3-87bd-189d4489a277
 
+https://github.com/user-attachments/assets/cba424a5-687f-4929-a77b-b7d0dd43f79b
 <p align="center">
   <img src="docs/demonstracao-funcionamento.gif" alt="Demonstração do Sistema de Irrigação no Blynk IoT" width="700">
 </p>
 
 ### 📷 Montagem Física e Unidade de Controle
-Abaixo está o módulo central montado em caixa acrílica transparente, integrando o **ESP32**, sensor **DHT11**, módulo relé, sensor de nível e botão **Touch** frontal[cite: 1]:
+Abaixo está o módulo central montado em caixa acrílica transparente, integrando o **ESP32**, sensor **DHT11**, módulo relé, e o sensor de nível
 
 <div align="center">
-  <img src="docs/caixa-controle-esp32.jpg" alt="Unidade de Controle ESP32 em Caixa Acrílica" width="60%" />
+  <img src="
+
+
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/84373ea1-6fa6-4b43-9276-562051876c55" />
+" alt="Unidade de Controle ESP32 em Caixa Acrílica" width="60%" />
 </div>
 
 ---
