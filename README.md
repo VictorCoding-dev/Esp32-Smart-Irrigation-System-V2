@@ -1,3 +1,4 @@
+
 # 🌱 ESP32 Smart Irrigation System — Irrigação Automática com Blynk IoT
 
 Sistema de irrigação inteligente baseado em **ESP32** e **Blynk IoT** que monitora a temperatura e a umidade do ar, acompanha o nível do reservatório de água, permite o acionamento remoto da bomba d'água e controla o direcionamento do fluxo por meio de um **servomotor SG90** com ângulo ajustável pelo aplicativo.
@@ -5,7 +6,8 @@ Sistema de irrigação inteligente baseado em **ESP32** e **Blynk IoT** que moni
 ---
 
 ### 🎥 Demonstração em Funcionamento
-> *Dica: No GitHub, você pode arrastar o arquivo `.mp4` diretamente para o editor do README para gerar um player embutido automaticamente, ou usar um `.gif`.*
+
+https://github.com/user-attachments/assets/b1fc6c77-db47-46b3-87bd-189d4489a277
 
 <p align="center">
   <img src="docs/demonstracao-funcionamento.gif" alt="Demonstração do Sistema de Irrigação no Blynk IoT" width="700">
