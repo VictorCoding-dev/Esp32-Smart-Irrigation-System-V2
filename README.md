@@ -6,11 +6,9 @@ Sistema de irrigação inteligente baseado em **ESP32** e **Blynk IoT** que moni
 
 ### 🎥 Demonstração em Funcionamento
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/cba424a5-687f-4929-a77b-b7d0dd43f79b">Assistir ao vídeo de demonstração no GitHub</a>
-</p>
+https://github.com/user-attachments/assets/cba424a5-687f-4929-a77b-b7d0dd43f79b
 
-### 📷 Montagem Física e Unidade de Controle
+### 📷 Preview
 
 Abaixo está o módulo central montado em caixa acrílica transparente, integrando o **ESP32**, sensor **DHT11**, módulo relé e o sensor de nível:
 
@@ -24,7 +22,7 @@ Abaixo está o módulo central montado em caixa acrílica transparente, integran
 
 - **Monitoramento Climático em Tempo Real:** Leitura de temperatura (°C) e umidade relativa do ar (%) via sensor **DHT11**, com exibição em gráfico histórico no painel do Blynk.
 - **Sensor de Nível do Reservatório:** Monitora a quantidade de água disponível no reservatório para evitar funcionamento a seco e sinalizar necessidade de reposição.
-- **Acionamento Remoto da Bomba:** Controle liga/desliga da mini bomba d'água diretamente pelo aplicativo **Blynk IoT**.
+- **Acionamento Remoto da Bomba:** Controle liga/desliga da bomba d'água diretamente pelo aplicativo **Blynk IoT**.
 - **Direcionamento Ajustável com Servomotor:** Controle deslizante (*slider*) no app que ajusta o ângulo do micro servo **SG90**, movendo a mangueira para irrigar diferentes pontos da planta.
 
 ---
